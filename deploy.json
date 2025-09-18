@@ -1,0 +1,8 @@
+{
+  "framework": "Другой",
+  "environmentVersion": "22",
+  "buildCommand": "npm run build",
+  "dependencies": [],
+  "buildDirectory": "/"
+}
+
