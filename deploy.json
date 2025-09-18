@@ -1,0 +1,12 @@
+{
+  "framework": "Другой",
+  "environmentVersion": "22",
+  "buildCommand": "npm run build",
+  "dependencies": [
+    "express",
+    "react",
+    "axios"
+  ],
+  "buildDirectory": "/dist"
+}
+
