@@ -1,0 +1,13 @@
+{
+  "name": "book-constructor",
+  "version": "1.0.0",
+  "description": "Конструктор книг.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"Static site - no build required.\"",
+    "start": "echo \"No start script configured. Serve files statically.\""
+  },
+  "author": "",
+  "license": "ISC"
+}
+
